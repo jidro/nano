@@ -1,7 +1,9 @@
-#English
+# English
+
 This is the configuration file for the Nano in Tiny Core Linux.
 
-** Note: **
+**Note:**
+
 - Please modify the contents of the file first, and then restore the file or folder according to the original path. It is not clear what problems will occur after the return, so please be careful.
 - Nano folder with nanorc files in the nanorc folder will work better. (** If not taken together, error may be reported **)
 
@@ -26,11 +28,13 @@ If you have downloaded any of this, you agree to the above terms!
 If there is any violation, please contact me to delete.
 
 # 中文
-这是Tiny Core Linux中nano的配置文件。
+
+这是`Tiny Core Linux`中`nano`的配置文件。
 
 **注意：**
+
 - 请先修改文件内容后，请按照原路径还原此文件或文件夹,具体返还后会有什么问题暂且未知，请谨慎施行。
-- nano文件夹与nanorc文件夹中的nanorc文件共同服用效果更佳。（**若未共同服用易报错**）
+- `nano`文件夹与`nanorc`文件夹中的`nanorc`文件共同服用效果更佳。（**若未共同服用易报错**）
 
 本人未经过任何一次修改，仅仅是从官网下载。
 

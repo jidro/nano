@@ -1,13 +1,13 @@
 # English
 
-> This is the configuration file of nano in antiX , derive from ~/
+This is the configuration file of `nano` in antiX , derive from `~/`
 
 > **Note: Please modify the content of the file first, and restore the file or folder according to the original path.**
-**The specific problems after the return are temporarily unknown, please proceed with caution.**
+> **The specific problems after the return are temporarily unknown, please proceed with caution.**
 
-> I haven't undergone any modification, just downloaded it from the official website.
+I haven't undergone any modification, just downloaded it from the official website.
 
-> Welcome all the great technical gods to come and improve.
+Welcome all the great technical gods to come and improve.
 
 > This is my study and use.
 
@@ -27,13 +27,13 @@
 
 # 中文
 
-> 这是antiX中从~/导出的nano的配置文件。
+这是`antiX`中从`~/`导出的`nano`的配置文件。
 
 > **注意：请先修改文件内容后，请按照原路径还原此文件或文件夹,具体返还后会有什么问题暂且未知，请谨慎施行。**
 
-> 本人未经过任何一次修改，仅仅是从官网下载。
+本人未经过任何一次修改，仅仅是从官网下载。
 
-> 欢迎各位技术大神们前来改进。
+欢迎各位技术大神们前来改进。
 
 > 此为本人学习使用。
 
@@ -50,4 +50,3 @@
 > 若已下载此中任何，即视为同意以上条款！
 
 > 若有侵犯行为，请联系本人删除。
-
